@@ -18,5 +18,9 @@ Step 5 Predictive Modeling: Used Neural Network(MLPRegressor) to create a predic
 
 <img width="649" alt="neural_network_results" src="https://github.com/NafisaRaisa/Project-Fresh-Air/assets/96096118/3e994082-1db2-4bee-9b5d-ee744d44593f">
 
+In addition to the Neural Network, we also implemented the Support Vector Machine to build a predictive model using the script "Support_vector_machine.py". Support vector machine shows more promising results than Neural Network for our data. Below is the result
+<img width="437" alt="Screenshot 2023-12-21 at 5 04 38 AM" src="https://github.com/NafisaRaisa/Project-Fresh-Air/assets/96096118/882c4973-67dc-447a-be6d-041a3dc3b8ed">
+
+
 
 
