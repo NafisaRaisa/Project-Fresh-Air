@@ -11,6 +11,7 @@ Step 3 Finding Correlation among the variables: Using the script "corr_matrices.
 
 <img width="690" alt="Screenshot 2023-11-30 at 12 43 46 AM" src="https://github.com/NafisaRaisa/Project-Fresh-Air/assets/96096118/a656fce6-8198-430f-9f95-adb3ac8a26cf">
 
+
 Step 4 Scaling: The varibles were scaled in order to ensure that all features contribute equaly to the training of the model. 
 
 Step 5 Predictive Modeling: Used Neural Network(MLPRegressor) to create a predictive model. Did a 70% training, 20%testing, and 10% evaluation test set. After experimenting with different iteration and learning rates, we decided that iteration=10,000 and learning_rate=0.1 currently gives the lowest mean square error. Therefore the current model is built with those values. Cross validation was perfomed to enhance the performance of the model. The script "neural_network.py" was used to create the predictive model.
