@@ -8,6 +8,7 @@ from sklearn.preprocessing import OneHotEncoder
 # Load the dataset (replace 'your_dataset.csv' with the actual file name)
 data = pd.read_csv('modified_result_file.csv')
 
+
 # Print the list of column names to identify the correct ones to drop
 #print(data.columns)
 
