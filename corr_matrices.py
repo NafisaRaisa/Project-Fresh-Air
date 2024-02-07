@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 # Read the CSV file
 file_path = '/Users/nafisaraisa/Documents/Project_Fresh_Air/data_cleaning/all_result_file.csv'
 df = pd.read_csv(file_path)
