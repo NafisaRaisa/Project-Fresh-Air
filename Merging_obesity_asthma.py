@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 # Read CSV files
 file1 = pd.read_csv('/Users/nafisaraisa/Downloads/Asthma.csv')
 file2 = pd.read_csv('/Users/nafisaraisa/Downloads/obesity.csv')
